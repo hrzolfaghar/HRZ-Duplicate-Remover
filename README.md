@@ -8,7 +8,7 @@
    
 2- victimDir directory files that are similar to those in the patternDir directory will be removed from the victimDir directory.
    
-   What does the similar file mean?
+   What do similar files mean?
    
    - Their names are the same.
    
