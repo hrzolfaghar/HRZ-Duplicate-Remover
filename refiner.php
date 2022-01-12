@@ -5,13 +5,8 @@
  * @license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 or later
  */
 
-
-/** input directories :
- *  $patternDir: The directory used as the pattern & does not change
- *  $victimDir: A directory that is compared to the pattern directory, Then files that have the same name and the same content are removed from this directory. Finally, empty directories also will be removed.
- */
-$patternDir = "";
-$victimDir = "";
+$patternDir = ""; //The directory used as the pattern & does not change
+$victimDir = ""; //The directory that is compared to the pattern directory, Then similar files will be deleted from this folder.
 
 
 define('DS', DIRECTORY_SEPARATOR);
