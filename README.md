@@ -11,11 +11,9 @@
    What do similar files mean?
    
    - Their names are the same.
-   
    - Their contents are the same.
-   
    - Their internal paths are the same.
-   - Extensions and file types are the same.
+   - Their Extensions and file types are the same.
     
 3- Finally, if a directory becomes empty after deleting similar files, that directory will also be deleted if victimDir directory.
 
