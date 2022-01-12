@@ -21,4 +21,16 @@
    Directories that are empty from the beginning will not be deleted.
 
 # How to use HRZ Duplicate Refiner
-1- Download the compare.php file
+1- In the first step, it is better to back up all your files.
+
+2- Download the refiner.php file and place it next to the two directories you want to compare.
+
+3- Open the refiner.php file and enter the names of the directories in the variables and save (In lines 8 and 9).
+
+   sample:
+   
+   $patternDir = "orginal";
+   
+   $victimDir = "check";
+   
+4- And then run the file and enjoy it!
