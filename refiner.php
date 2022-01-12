@@ -79,4 +79,4 @@ class Compare
     }
 }
 
-new Compare('en', 'fa');
+new Compare($patternDir, $victimDir);
