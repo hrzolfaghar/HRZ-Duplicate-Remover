@@ -15,7 +15,7 @@
    - Their internal paths are the same.
    - Their Extensions and file types are the same.
     
-3- Finally, if a directory becomes empty after deleting similar files, that directory will also be deleted if victimDir directory.
+3- Finally, after deleting similar files if a directory becomes empty, that directory will also be deleted in victimDir directory.
 
    Directories that are empty from the beginning will not be deleted.
 
