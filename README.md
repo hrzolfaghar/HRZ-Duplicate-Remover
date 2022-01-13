@@ -3,10 +3,10 @@
 
    patternDir: the directory used as the pattern & does not change.
    
-   victimDir: A directory that is compared to a template directory and changes are applied to it.
+   victimDir: A directory that is compared to patternDir directory and changes are applied to it.
    
    
-2- victimDir directory files that are similar to those in the patternDir directory will be removed from the victimDir directory.
+2- victimDir directory files that are similar to patternDir directory files will be removed from the victimDir directory.
    
    What do similar files mean?
    
@@ -28,7 +28,7 @@
 
    sample:
    
-   $patternDir = "orginal";
+   $patternDir = "original";
    
    $victimDir = "check";
    
