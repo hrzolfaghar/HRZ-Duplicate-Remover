@@ -32,4 +32,4 @@
    
    $victimDir = "check";
    
-4- And then run the file and enjoy it!
+4- Run the file and enjoy it!
