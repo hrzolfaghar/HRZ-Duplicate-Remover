@@ -1,4 +1,4 @@
-# How does the HRZ Duplicate Refiner work?
+# How does the HRZ Duplicate Remover work?
 1- Compares two directories :
 
    patternDir: the directory used as the pattern & does not change.
