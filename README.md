@@ -19,7 +19,7 @@
 
    Directories that are empty from the beginning will not be deleted.
 
-# How to use HRZ Duplicate Refiner
+# How to use HRZ Duplicate Remover
 1- In the first step, it is better to back up all your files.
 
 2- Download the refiner.php file and place it next to the two directories you want to compare.
